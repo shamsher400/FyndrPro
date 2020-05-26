@@ -1,0 +1,115 @@
+/* 
+  Localizable.strings
+  Fyndr
+
+  Created by BlackNGreen on 19/04/19.
+  Copyright © 2019 BNG. All rights reserved.
+*/
+"edit" = "Edit";
+"Bookmark" = "Your Likes";
+"Sign Up" = "Sign Up";
+"Create Profile" = "Create Profile";
+"Select Your interest" = "Select Your interests";
+"City" = "City";
+"Search City" = "Search City";
+"My Profile" = "My Profile";
+"Edit Profile" = "Edit Profile";
+"Block List" = "Block List";
+"Chat & Notifications" = "Chat & Notifications";
+"Settings" = "Settings";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Update" = "Update";
+"Next" = "Next";
+"Oops!" = "Oops!";
+"Unblock" = "Unblock";
+"Continue" = "Continue";
+"OTP" = "OTP";
+"Bio" = "Bio";
+"Retry" = "Retry";
+"Recent" = "Recent";
+"Message" = "Message";
+"Submit" = "Submit";
+"Skip" = "Skip";
+
+
+"M_ENTER_PHONE_NUMBER" = "Enter phone number";
+"M_START_FYNDING" = "Start Fynding";
+"M_CANCEL" = "Cancel";
+"M_SETTING" = "Settings";
+"M_LOGIN_ERROR"= "Unable to login please try again";
+"M_ENABLE_MOBILE_DATE" = "Please enabled your mobile data to activate the service";
+"M_INTERNET_CONNECTION" =  "Oops! Please check your internet connection";
+"M_GENERIC_ERROR" =  "Something went wrong. Please try again";
+"M_INVALID_NUMBER" =  "Please input valid number";
+"M_MAX_LENGTH_EXCEEDED" =  "Please check your number!";
+"M_EMPTY_NUMBER" =  "Number can not be empty";
+"M_INVALID_CALLING_CODE" =  "Calling code invalid";
+"M_INVALID_OTP" =  "Invalid OTP";
+"M_INVALID_REASON" =  "Please select reason";
+"M_INVALID_USER_ID" =  "Invalid User Id";
+"M_NO_INTEREST_SELECTED" =  "Please select at least one interest";
+"M_IMAGE_NOT_UPLOADED" =  "Please upload image";
+"M_INVALID_NAME" =  "Name can not be empty";
+"M_SELECT_GENDER" =  "Please select gender";
+"M_INVALID_CITY" =  "Please select city";
+"M_INVALID_DOB" =  "Please select date of birth";
+"M_FAILED_TO_SENT_CHAT" =  "Unable to sent message right now please try again";
+"M_REQUEST_SUCCESS" =  "Request successfully processed";
+"M_WRONG_IMAGE_SIZE" =  "Invalid image size";
+"M_FB_KIT_NUMBER_NOT_FOUND" = "Unable to get number";
+"M_FB_KIT_LOGIN_FAILED" = "Unable to process your request, Please try again";
+
+
+"M_LOGOUT" = "Do you want to logout ?";
+"M_DELETE_ACCOUNT" = "Do you want to delete your account?";
+"M_LOG_OUT" = "You have logged out from this device. Please login again to use the service";
+"M_EXPLORE_TITLE" = "EXPLORE";
+"M_EXPLORE_DESC" = "Like minded people using AI driven app search";
+"M_CONNECT_TITLE" = "CONNECT";
+"M_CONNECT_DESC" = "Using call and chat option";
+"M_PLAY_TITLE" = "PLAY";
+"M_PLAY_DESC" = "With your fyndr buddies";
+"M_OTP_MESSAGE_WITH_NUMBER" = "Enter the code that was send to \n";
+"M_OTP_MESSAGE_WITHOUT_NUMBER" = "A 6 digit OTP has been send to mobile number";
+"M_TAKE_PHOTO" = "Take Photo";
+"M_CHOOSE_PHOTO" = "Choose Photo";
+"M_DONE" = "Done";
+"M_UNABLE_TO_LOAD_PROFILE_PLEASE_TRY_AGAIN" = "Unable to load profile, Please try again";
+"ALL_PROFILE_VIWED" =  "All profile viewed!";
+"COME_BACK_SOON_TO_FIND_MORE_PROFRILE_TO_CONNECT_WITH" = "Come back soon to find more profile to connect with";
+"Help" = "Help";
+"Faq" = "Faq";
+"Support" = "Support";
+"M_BLOCK_LIST" = "Block List";
+"M_DO_NOT_DISTURB" = "Do Not Disturb";
+"M_CONNECTIONS" = "Connections";
+"Logout" = "Logout";
+"Visibility" = "Visibility";
+"Account" = "Account";
+"Feedback" = "Feedback";
+"M_UN_BLOCK" = "UnBlock";
+"M_BLOCK" = "Block";
+"M_REPOER" = "Report";
+"M_OUTGOING_CALL" = "Outgoing Call";
+"M_WOULD_LIKE_TO_ACCESS_THE_CAMERA" = "Would Like to Access the Camera";
+"M_WOULD_LIKE_TO_ACCESS_THE_PHOTO" = "Would Like to Access the Photo";
+"M_DIDNT_GET_OTP" = "I didn\'t get a code";
+"M_RESENT_OTP" = "Resend OTP";
+"M_MANAGE_YOUR_INTERESR" = "Manage your interests";
+"M_MUTUAL_INTEREST" = "Mutual interests";
+"M_PLEASE_LET_US_KNOW_WHY_DO_YOU_WANT_REPORT" = "Please let us know why do you want to report";
+"M_SELECT_A_REASON" = "Select a reason";
+"M_ABOUT" = "About you (Optional)";
+"M_AGE_NOTE" = "Don't worry, we won't share your date of birth";
+"M_ABOUT_ME" = "About Me";
+"M_UPDATE_TITLE" = "Update Available";
+"M_UPDATE_MESSAGE" = "A new version of Fyndr is available. Please update to latest version now.";
+"M_UPDATE_PRIMARY_BTN_TEXT" = "Update";
+"M_PROFILE_DELETED" = "profile deleted";
+"M_DISCART_VIDEO_MESSAGE" = "Are you sure you want to discard the video?";
+
+
+
+//NSLocalizedString("M_SELECT_A_REASON", comment: "M_UPDATE_PRIMARY_BTN_TEXT")
+

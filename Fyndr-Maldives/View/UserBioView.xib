@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="UserBioView" customModule="Fyndr" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="353" height="399"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gDw-Ay-Iep">
+                    <rect key="frame" x="0.0" y="0.0" width="353" height="399"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wM1-46-mhN">
+                    <rect key="frame" x="0.0" y="0.0" width="353" height="399"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aQS-cz-cIH">
+                            <rect key="frame" x="88.5" y="143.5" width="176.5" height="72"/>
+                            <state key="normal" image="newbio_icon"/>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add your video and get more profile views." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="62d-B5-uFn">
+                            <rect key="frame" x="53" y="220.5" width="247" height="41"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="aQS-cz-cIH" firstAttribute="width" secondItem="wM1-46-mhN" secondAttribute="width" multiplier="0.5" id="5NG-0s-vCd"/>
+                        <constraint firstItem="aQS-cz-cIH" firstAttribute="centerX" secondItem="wM1-46-mhN" secondAttribute="centerX" id="MmC-Cm-v6I"/>
+                        <constraint firstItem="62d-B5-uFn" firstAttribute="top" secondItem="aQS-cz-cIH" secondAttribute="bottom" constant="5" id="beR-Ah-9E2"/>
+                        <constraint firstItem="62d-B5-uFn" firstAttribute="width" secondItem="wM1-46-mhN" secondAttribute="width" multiplier="0.7" id="fUH-Nd-UKG"/>
+                        <constraint firstItem="62d-B5-uFn" firstAttribute="centerX" secondItem="wM1-46-mhN" secondAttribute="centerX" id="muP-Jl-anh"/>
+                        <constraint firstItem="aQS-cz-cIH" firstAttribute="centerY" secondItem="wM1-46-mhN" secondAttribute="centerY" multiplier="0.9" id="omc-Wt-9ir"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="S77-6u-pYJ">
+                    <rect key="frame" x="0.0" y="0.0" width="353" height="399"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cbn-XS-dku">
+                            <rect key="frame" x="144" y="166.5" width="65" height="66"/>
+                            <state key="normal" image="video_play"/>
+                            <connections>
+                                <action selector="playPauseButtonAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="Ve7-6M-SOQ"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="cbn-XS-dku" firstAttribute="centerX" secondItem="S77-6u-pYJ" secondAttribute="centerX" id="r33-ek-M1i"/>
+                        <constraint firstItem="cbn-XS-dku" firstAttribute="centerY" secondItem="S77-6u-pYJ" secondAttribute="centerY" id="sGU-ae-kn8"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="S77-6u-pYJ" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="5J4-Nk-V1v"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="gDw-Ay-Iep" secondAttribute="bottom" id="DTS-pl-nH4"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="wM1-46-mhN" secondAttribute="bottom" id="EoQ-Hd-jYw"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="wM1-46-mhN" secondAttribute="trailing" id="N9L-KT-Jhr"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="S77-6u-pYJ" secondAttribute="bottom" id="aGW-rM-Ju9"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="S77-6u-pYJ" secondAttribute="trailing" id="add-ci-s3L"/>
+                <constraint firstItem="S77-6u-pYJ" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="egZ-4G-QER"/>
+                <constraint firstItem="wM1-46-mhN" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ewJ-JV-mkx"/>
+                <constraint firstItem="gDw-Ay-Iep" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="gtc-lK-We7"/>
+                <constraint firstItem="wM1-46-mhN" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="jqG-Mb-LhE"/>
+                <constraint firstItem="gDw-Ay-Iep" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="neW-ug-ApE"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="gDw-Ay-Iep" secondAttribute="trailing" id="s3X-jg-Eu4"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="noVideoLbl" destination="62d-B5-uFn" id="XDI-Uv-6Fh"/>
+                <outlet property="noVideoView" destination="wM1-46-mhN" id="PIq-b0-iA3"/>
+                <outlet property="playPauseButton" destination="cbn-XS-dku" id="a65-7d-wZy"/>
+                <outlet property="playerView" destination="S77-6u-pYJ" id="Yte-Iq-GuC"/>
+                <outlet property="thumbImageView" destination="gDw-Ay-Iep" id="5pe-L1-yzq"/>
+            </connections>
+            <point key="canvasLocation" x="166" y="29"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="newbio_icon" width="72" height="72"/>
+        <image name="video_play" width="65" height="66"/>
+    </resources>
+</document>

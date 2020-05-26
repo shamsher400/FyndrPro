@@ -1,0 +1,6 @@
+framework module Pods_Fyndr_Maldives {
+  umbrella header "Pods-Fyndr-Maldives-umbrella.h"
+
+  export *
+  module * { export * }
+}

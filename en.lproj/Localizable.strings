@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  Fyndr
+
+  Created by BlackNGreen on 19/04/19.
+  Copyright © 2019 BNG. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Fyndr Pro";
+
+
+"edit" = "Edit";
+"Bookmark" = "Your Likes";
+"Sign Up" = "Sign Up";
+"Create Profile" = "Create Profile";
+"Select Your interest" = "Select Your interests";
+"City" = "City";
+"Search City" = "Search City";
+"My Profile" = "My Profile";
+"Edit Profile" = "Edit Profile";
+"Block List" = "Block List";
+"Chat & Notifications" = "Chat & Notifications";
+"Settings" = "Settings";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Update" = "Update";
+"Next" = "Next";
+"Oops!" = "Oops!";
+"Unblock" = "Unblock";
+"Continue" = "Continue";
+"OTP" = "OTP";
+"Bio" = "Bio";
+"Retry" = "Retry";
+"Recent" = "Recents";
+"Message" = "Message";
+"Submit" = "Submit";
+"Skip" = "Skip";
+"Wait" = "Wait";
+"version" = "Version";
+"NA" = "NA";
+"OR" = "- or -";
+"Burmese" = "Burmese";
+"English" = "English";
+"Save" = "Save";
+"T&C" = "T&C";
+
+
+// new
+"NO" = "NO";
+"YES" = "YES";
+
+
+"M_FAILED" = "Failed";
+"M_ACTIVE" = "Active";
+"M_PENDING" = "Pending";
+"M_BUY_NOW" = "Buy Now";
+
+
+
+
+"M_ENTER_PHONE_NUMBER" = "Enter phone number";
+"M_START_FYNDING" = "Start Fynding";
+"M_CANCEL" = "Cancel";
+"M_SETTING" = "Settings";
+"M_LOGIN_ERROR"= "Unable to login please try again";
+"M_ENABLE_MOBILE_DATE" = "Please enabled your mobile data to activate the service";
+"M_INTERNET_CONNECTION" =  "Oops! Please check your internet connection";
+"M_GENERIC_ERROR" =  "Something went wrong. Please try again";
+"M_INVALID_NUMBER" =  "Please input valid number";
+"M_MAX_LENGTH_EXCEEDED" =  "Please check your number!";
+"M_EMPTY_NUMBER" =  "Number can not be empty";
+"M_INVALID_CALLING_CODE" =  "Calling code invalid";
+"M_INVALID_OTP" =  "Invalid OTP";
+"M_INVALID_REASON" =  "Please select reason";
+"M_INVALID_USER_ID" =  "Invalid User Id";
+"M_NO_INTEREST_SELECTED" =  "Please select at least one interest";
+"M_IMAGE_NOT_UPLOADED" =  "Please upload image";
+"M_INVALID_NAME" =  "Please enter your name to proceed";
+"M_SELECT_GENDER" =  "Please select your gender";
+"M_INVALID_CITY" =  "Please select your current city";
+"M_INVALID_DOB" =  "Please select your DOB";
+"M_FAILED_TO_SENT_CHAT" =  "Unable to sent message right now please try again";
+"M_REQUEST_SUCCESS" =  "Request successfully processed";
+"M_WRONG_IMAGE_SIZE" =  "Invalid image size";
+"M_FB_KIT_NUMBER_NOT_FOUND" = "Unable to get number";
+"M_FB_KIT_LOGIN_FAILED" = "Unable to process your request, Please try again";
+
+
+"M_LOGOUT" = "Are you sure you want to Logout?";
+"M_DELETE_ACCOUNT" = "Are you sure you want to delete your account?";
+"M_LOG_OUT" = "You have logged out from this device. Please login again to use the service";
+"M_EXPLORE_TITLE" = "EXPLORE";
+"M_EXPLORE_DESC" = "Like minded people using AI driven app search";
+"M_CONNECT_TITLE" = "CONNECT";
+"M_CONNECT_DESC" = "Using call and chat option";
+"M_PLAY_TITLE" = "MEET UP";
+"M_PLAY_DESC" = "With your fyndr buddies";
+"M_OTP_MESSAGE_WITH_NUMBER" = "Enter the code that was send to \n";
+"M_OTP_MESSAGE_WITHOUT_NUMBER" = "A 4 digit OTP has been send to mobile number";
+"M_TAKE_PHOTO" = "Take Photo";
+"M_CHOOSE_PHOTO" = "Choose from gallery";
+"M_DONE" = "Done";
+"M_UNABLE_TO_LOAD_PROFILE_PLEASE_TRY_AGAIN" = "Unable to load profile, Please try again";
+"ALL_PROFILE_VIWED" =  "All profile viewed!";
+"COME_BACK_SOON_TO_FIND_MORE_PROFRILE_TO_CONNECT_WITH" = "Come back soon to find more profile to connect with";
+"Help" = "Help";
+"Faq" = "FAQ";
+"Support" = "Support";
+"M_BLOCK_LIST" = "Blacklist";
+"M_DO_NOT_DISTURB" = "Do Not Disturb";
+"M_CONNECTIONS" = "Connections";
+"Logout" = "Logout";
+"Visibility" = "Visibility";
+"Account" = "Account";
+"Feedback" = "Feedback";
+"M_UN_BLOCK" = "Unblock";
+"M_BLOCK" = "Block";
+"M_REPOER" = "Report";
+"M_OUTGOING_CALL" = "Outgoing Call";
+"M_WOULD_LIKE_TO_ACCESS_THE_CAMERA" = "Would Like to Access the Camera";
+"M_WOULD_LIKE_TO_ACCESS_THE_PHOTO" = "Would Like to Access the Photo";
+"M_DIDNT_GET_OTP" = "I didn\'t get a code";
+"M_RESENT_OTP" = "Resend OTP";
+"M_MANAGE_YOUR_INTERESR" = "Manage your interests";
+"M_MUTUAL_INTEREST" = "Mutual interests";
+"M_PLEASE_LET_US_KNOW_WHY_DO_YOU_WANT_REPORT" = "Please let us know why do you want to report";
+"M_SELECT_A_REASON" = "Select a reason to report";
+"M_ABOUT" = "About you (Optional)";
+"M_AGE_NOTE" = "Don't worry, we won't share your date of birth";
+"M_ABOUT_ME" = "About Me";
+"M_UPDATE_TITLE" = "Update Available";
+"M_UPDATE_MESSAGE" = "A new version of Fyndr is available. Please update to latest version now.";
+"M_UPDATE_PRIMARY_BTN_TEXT" = "Update";
+"M_PROFILE_DELETED" = "profile deleted";
+"M_DISCART_VIDEO_MESSAGE" = "Are you sure you want to discard the video?";
+"M_SUBSCRIBE" = "Subscribe";
+"M_SUBSCRIBE_NOW" = "Subscribe Now";
+"M_SUBSCRIPTION" = "Subscription";
+"M_PREMIUME_ACCESS" = "PREMIUM ACCESS";
+"M_GET_PREMIUME_ACCESS" = "Get access to premium features";
+"M_ADDITIONAL_INFO" = "Additional Info";
+"M_ADD_YOUR_VEDIO" = "Add your video and get more profile views.";
+"M_OTP_WILL_SEND" = "OTP will be sent to your mobile number";
+"M_ADD_MORE" = "Add more";
+"M_MAKE_SURE_YOU_ARE_USING_MPT" = "Make sure you are using MPT number? ";
+"M_SOCIAL_LOGIN" = "Social Login";
+"M_TERM_AND_CONDITIONS_MESSAGE" = "Recurring billing, Cancel any time. \n\nIf you choose to purchase a subscription, payment will be charged to your iTunes account. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. For more information, please visit our Terms of Service and Privacy Policy";
+"M_TERM_CONDITIONS_RECURRING_BILLING"  = "Recurring billing, Cancel any time.";
+"M_TERM_CONDITIONS_TERM_OF_SERVICE"  = "Terms of Service";
+"M_TERM_CONDITIONS_PRIVACY_POLICY"  = "Privacy Policy";
+"M_LOGIN_WITH_FACEBOOK" = " Login with Facebook";
+"M_LOGIN_WITH_GOOGLE" = " Login with Google";
+"M_LOGIN_WITH_APPLE" = " Sign in with Apple";
+"M_OTHER_SIGNIN" = "Other sign up option";
+"M_LOCALIZATIONS" = "Localizations";
+"M_CHANGE_LANGUAGE" = "Change Language";
+"M_WRITE_YOUR_MESSAGE" = "Write your message ...";
+"M_YOUR_VIDEO_PROFILE" = "Your Video Profile";
+"M_BOOKMARK_NO_DATA_FOUND" = "No data found!";
+"M_BOOKMARK_NO_DATA_FOUND_DES" = "Looks like you haven't bookmark any user!";
+"M_PREFERED_LANGUAGE" = "Choose Your Preferred language";
+"M_SELECT_LANGUAGE" = "Please select your language";
+"M_SERVICE" = "Services";
+"M_UN_SUBSCRIBE" = "Unsubscribe";
+"M_UN_SUBSCRIBE_CONTENT" = "After clicking the proceed button you will be not able to access premium features of the mobile application like (Chatting with your match and others.) For accessing again you have to subscribe. Please proceed to suspend the service.";
+
+"M_TERM_AND_CONDITIONS" = "Terms & condition";
+"M_DATE_OF_BIRTH" = "Date of birth";
+"M_NAME" = "Enter Name";
+
+"M_SUBSCRIPTION_ALERT_TITLE" = "This is premium feature";
+"M_SUBSCRIPTION_ALERT_DEC" = "Want unlimited access to all app features?";
+"M_BUY_VIP_PASS" = "BUY VIP PASS";
+"M_SUBSCRIPTION_BOOTOM_DEC" = "GET ACCESS TO PREMIUM FEATURES";
+
+
+// Block profiles
+"M_BLOCK_PROFILES_DEC" = "Looks like you haven't block any user!";
+
+"M_WIFI_DESABLE_ALERT" = "You are currently using the Wi-Fi network, please choose the mobile data to proceed";
+"M_UNABLE_SUBSCRIBE" = "Unable to process your subscription right now. Kindly try again after sometime.";
+"M_LOCATION" = "Location";
+"M_VIDEO_BIO" = "Video Bio";
+
+"M_RECENT_NOT_FOUND" = "Looks like you, haven't chat yet";
+
+
+
+
+
+
+
+
+
+
+
+
+
+//NSLocalizedString("M_PREFERED_LANGUAGE", comment: "")
+

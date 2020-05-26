@@ -1,0 +1,194 @@
+/*
+  Localizable.strings
+  Fyndr
+
+  Created by BlackNGreen on 19/04/19.
+  Copyright © 2019 BNG. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Fyndr";
+
+
+"edit" = "އެޑިޓް";
+"Bookmark" = "ތިބާގެ ލައިކްސް";
+"Sign Up" = "ސައިން އަޕް";
+"Create Profile" = "ޕްރޮފައިލް ހައްދަވާ";
+"Select Your interest" = "ޝައުގުވެރިވާ ކަންކަން ނަންގަވާ";
+"City" = "City";
+"Search City" = "Search City";
+"My Profile" = "އަހަރެންގެ ޕްރޮފައިލް";
+"Edit Profile" = "ޕްރޮފައިލް އެޑިޓް";
+"Block List" = "ބްލޮކް";
+"Chat & Notifications" = "ޗެޓް އަދި ނޮޓިފިކޭޝަންސް";
+"Settings" = "ސެޓިންގްސް";
+"OK" = "އޯކޭ";
+"Cancel" = "ކެންސަލް";
+"Update" = "އަޕްޑޭޓް";
+"Next" = "ދެން ކުރިއަށް";
+"Oops!" = "އޫޕްސް!";
+"Unblock" = "އަންބްލޮކް";
+"Continue" = "ކުރިއަށް ގެންދަވާ";
+"OTP" = "އޯޓީޕީ";
+"Bio" = "ބައޯ";
+"Retry" = "ރީޓްރައި";
+"Recent" = "ފަހުގެ";
+"Message" = "މެސެޖްތައް";
+"Submit" = "ހުށަހަޅާ";
+"Skip" = "ދޫކޮށްލައްވާ";
+"Wait" = "Wait";
+"version" = "ވާޝަން";
+"NA" = "NA";
+"OR" = "- or -";
+"English" = "English";
+"Save" = "ސޭވް";
+"T&C" = "T&C";
+
+
+// new
+"NO" = "NO";
+"YES" = "އާނ";
+
+
+"M_FAILED" = "ފެއިލްވެއްޖެ";
+"M_ACTIVE" = "އެކްޓިވް";
+"M_PENDING" = "Pending";
+"M_BUY_NOW" = "މިހާރު ގަނޭ";
+
+
+
+
+"M_ENTER_PHONE_NUMBER" = "ފޯން ނަމްބަރު ޖައްސަވާ";
+"M_START_FYNDING" = "ފައިންޑިން ފައްޓަވާ";
+"M_CANCEL" = "ކެންސަލް";
+"M_SETTING" = "ސެޓިންގްސް";
+"M_LOGIN_ERROR"= "ލޮގްއިންއެއް ނުވެވުނު. އަދި އެއްފަހަރު މަސައްކަތް ކޮއްލައްވާ";
+"M_ENABLE_MOBILE_DATE" = "ޙިދުމަތް އެކްޓިވޭޓް ކުރެއްވުމަށް މޯބައިލް ޑޭޓާ ޖައްސަވާ.";
+"M_INTERNET_CONNECTION" =  "އިންޓަނެޓް ކަނެކްޝަން ގެއްލިއްޖެ. ކުރިއަށް ވަޑައިންނެވުމަށް އިންޓަނެޓް ކަނެކްޝަން ޗެކްކުރައްވާ.";
+"M_GENERIC_ERROR" =  "ކޮންމެސް ކަމެއް ގޯސްކޮށް ވެއްޖެ، އިރުކޮޅެއް ފަހުން އަނެއްކާ ކުރިއަށް ގެންދަވާ!";
+"M_INVALID_NUMBER" =  "ރަނގަޅު ނަމްބަރު ޖައްސަވާ";
+"M_MAX_LENGTH_EXCEEDED" =  "ތިބާގެ ނަމްބަރު ޗެކްކުރައްވާ!";
+"M_EMPTY_NUMBER" =  "ނަމްބަރު ހުސްކޮށެއް ނުބޭންދޭނެ";
+"M_INVALID_CALLING_CODE" =  "ކޯލިން ކޯޑް އިންވެލިޑް";
+"M_INVALID_OTP" =  "އޯޓީޕީ އިންވެލިޑް";
+"M_INVALID_REASON" =  "ރަނގަޅު ސަބަބެއް ހޮއްވަވާ";
+"M_INVALID_USER_ID" =  "ޔޫސާ އައިޑީ އިންވެލިޑް";
+"M_NO_INTEREST_SELECTED" =  "މަދުވެގެން ޝައުގުވެރިވާ އެއްކަންތައް ހޮއްވަވާ";
+"M_IMAGE_NOT_UPLOADED" =  "ފޮޓޯ އަޕްލޯޑް ކުރައްވާ";
+"M_INVALID_NAME" =  "ކުރިއަށް ގެންދެވުމަށް ތިބާގެ ނަންޖައްސަވާ";
+"M_SELECT_GENDER" =  "ތިބާގެ ޖިންސު ނަންގަވާ";
+"M_INVALID_CITY" =  "ތިބާ މިހާރު އުޅުއްވާ ސިޓީގެ ނަން ނަންގަވާ";
+"M_INVALID_DOB" =  "ތިބާގެ އުފަން ތާރީޙް ނަންގަވާ";
+"M_FAILED_TO_SENT_CHAT" =  "މެސެޖެއް ނުފޮނުވުނު އަދި އެއްފަހަރު މަސައްކަތް ކޮއްލަވާ";
+"M_REQUEST_SUCCESS" =  "އެދިލެއްވި ކަން ކާމިޔާބުކަމާއިއެކު ވެއްޖެ";
+"M_WRONG_IMAGE_SIZE" =  "ފޮޓޯގެ ސައިޒް އިންވެލިޑް";
+"M_FB_KIT_NUMBER_NOT_FOUND" = "ނަމްބަރެއް ނުހޯދުނު";
+"M_FB_KIT_LOGIN_FAILED" = "ތިބާ އެދިލެއްވި ކަންތައް ފުރިހަމައެއް ނުކުރެވުނު. އަދި އެއްފަހަރު މަސައްކަތް ކޮއްލައްވާ";
+
+
+"M_LOGOUT" = "ޔަގީންތޯ ލޮގްއައުޓް ކުރައްވަން ބޭނުންފުޅުކަން؟";
+"M_DELETE_ACCOUNT" = "ޔަގީންތޯ އެކައުންޓް ޑިލީޓް ކުރައްވަން ބޭނުންފުޅުކަން؟";
+"M_LOG_OUT" = "މި ޑިވައިސްއިން ތިބާ ލޮގްއައުޓް ވެވިއްޖެ. ޙިދުމަތް ހޯއްދެވުމަށް އަލުން ލޮގްއިން ކުރައްވާ";
+"M_EXPLORE_TITLE" = "އެކްސްޕްލޯ";
+"M_EXPLORE_DESC" = "އޭއައި މެދުވެރިކޮށް އެޕް ހޯދާ އެއް ވިސްނުމެއްގެ މީހުން";
+"M_CONNECT_TITLE" = "ކަނެކްޓް";
+"M_CONNECT_DESC" = "ކޯލް ނުވަތަ ޗެޓް ބޭނުންކޮއްގެން";
+"M_PLAY_TITLE" = "މީޓްއަޕް";
+"M_PLAY_DESC" = "ތިބާގެ ފައިންޑާ ބަޑީސް އާއި އެކީ";
+"M_OTP_MESSAGE_WITH_NUMBER" = "ކޯޑް ޖައްސަވާ. ފޮނުވިފައިވަނީ \n";
+"M_OTP_MESSAGE_WITHOUT_NUMBER" = "ހަތަރު ޑިޖިޓުގެ އޯޓީޕީ އެއް މޯބައިލް ނަމްބަރައްވަނީ ފޮނުވިފައި";
+"M_TAKE_PHOTO" = "ފޮޓޯ ނަންގަވާ";
+"M_CHOOSE_PHOTO" = "ގެލެރީން ނަންގަވާ";
+"M_DONE" = "ނިމުނީ";
+"M_UNABLE_TO_LOAD_PROFILE_PLEASE_TRY_AGAIN" = "ޕްރޮފައިލް އެއް ނުހުޅުވުނު. އަދި އެއްފަހަރު މަސައްކަތް ކޮއްލައްވާ";
+"ALL_PROFILE_VIWED" =  "މުޅި ޕްރޮފައިލް ބެލިއްޖެ";
+"COME_BACK_SOON_TO_FIND_MORE_PROFRILE_TO_CONNECT_WITH" = "އިތުރު ޕްރޮފައިލްތައް ބެއްލުވުމަށް އަވަހަށް އެނބުރި ވަޑައިންނެވުން އެދެން";
+"Help" = "އެހީ";
+"Faq" = "އާންމު ސުވާލުތައް";
+"Support" = "ސަޕޯޓް";
+"M_BLOCK_LIST" = "ބްލެކްލިސްޓް";
+"M_DO_NOT_DISTURB" = "އުނދަގޫ ނުކުރައްވާ";
+"M_CONNECTIONS" = "ކަނެކްޝަންސް";
+"Logout" = "ލޮގްއައުޓް";
+"Visibility" = "ވިސިބިލިޓީ";
+"Account" = "އެކައުންޓް";
+"Feedback" = "ހިޔާލު ހުށަހެޅުން";
+"M_UN_BLOCK" = "އަންބްލޮކް";
+"M_BLOCK" = "ބްލޮކް";
+"M_REPOER" = "ރިޕޯޓްކުރުމަށް";
+"M_OUTGOING_CALL" = "ބޭރަށްދާ ކޯލްވަނީ";
+"M_WOULD_LIKE_TO_ACCESS_THE_CAMERA" = "ކެމެރާއަށް އެކްސެސް ބޭނުން";
+"M_WOULD_LIKE_TO_ACCESS_THE_PHOTO" = "ފޮޓޮއަށް އެކްސެސް ބޭނުން";
+"M_DIDNT_GET_OTP" = "އަޅުގަނޑަށް ކޯޑެއް ނުލިބޭ";
+"M_RESENT_OTP" = "އޯޓީޕީ އަނެއްކާ ފޮނުއްވާ";
+"M_MANAGE_YOUR_INTERESR" = "ތިބާ ޝައުގުވެރިވާ ކަންކަން މެނޭޖްކުރުމަށް";
+"M_MUTUAL_INTEREST" = "ޝައުގުވެރިވާ ކަންކަން އެއްގޮތް";
+"M_PLEASE_LET_US_KNOW_WHY_DO_YOU_WANT_REPORT" = "ދަންނަވަދެއްވާ ކީއްވެތޯ ރިޕޯޓްކުރައްވަން ބޭނުންފުޅުވަނީ";
+"M_SELECT_A_REASON" = "ރިޕޯޓްކުރައްވަން ބޭނުންފުޅުވާ ސަބަބެއް ނަންގަވާ";
+"M_ABOUT" = "ތިބާއާއި ބެހޭ (ކޮންމެހެން ފުރުއްވަން ނުޖެހޭ)";
+"M_AGE_NOTE" = "ހާސްވެނުލައްވާ. ތިބާގެ އުފަން ތާރީޙް އަޅުގަނޑުމެން ޙިއްސާއެއް ނުކުރާނަމެވެ";
+"M_ABOUT_ME" = "އަހަންނާއި ބެހޭ";
+"M_UPDATE_TITLE" = "އަޕްޑޭޓް އެބަހުރި";
+"M_UPDATE_MESSAGE" = "ފައިންޑަރގެ އާ ވާޝަންއެއް ނުކުމެފައިވޭ. އެންމެ ފަހުގެ ވާޝަންއަށް މިހާރު އަޕްޑޭޓް ކުރެއްވުން އެދެން.";
+"M_UPDATE_PRIMARY_BTN_TEXT" = "އަޕްޑޭޓް";
+"M_PROFILE_DELETED" = "ޕްރޮފައިލް ފޮހެލެވިއްޖެ";
+"M_DISCART_VIDEO_MESSAGE" = "ޔަގީންތޯ ވީޑިއޯ ފޮހެލައްވަން ބޭނުންފުޅުކަން؟";
+"M_SUBSCRIBE" = "ސަބްސްކްރައިބް";
+"M_SUBSCRIBE_NOW" = "މިހާރު ސަބްސްކްރައިބް ކުރައްވާ";
+"M_SUBSCRIPTION" = "ސަބްސްކްރިޕްޝަން";
+"M_PREMIUME_ACCESS" = "ޕްރިމިއަމް އެކްސެސް";
+"M_GET_PREMIUME_ACCESS" = "ޕްރިމިއަމް ފީޗާސްއަށް އެކްސެސް ހޯއްދަވާ";
+"M_ADDITIONAL_INFO" = "އިތުރު މަޢުލޫމާތު";
+"M_ADD_YOUR_VEDIO" = "ތިބާގެ ވީޑިއޯ ލައްވާ އިތުރު ޕްރޮފައިލް ވިއުސް ހޯއްދަވާ";
+"M_OTP_WILL_SEND" = "އޯޓީޕީ ތިބޭފުޅާގެ މޯބައިލް ނަމްބަރަށް ފޮނުއްވޭނެއެވެ";
+"M_ADD_MORE" = "Add more";
+"M_MAKE_SURE_YOU_ARE_USING_MPT" = "ތިބާ ތިބޭނުންކުރައްވަނީ ޒައިން ނަމްބަރެއްކަން ޔަގީންކުރައްވާ ";
+"M_SOCIAL_LOGIN" = "ސޯޝަލް ލޮގްއިން";
+"M_TERM_AND_CONDITIONS_MESSAGE" = "Recurring billing, Cancel any time. \n\nIf you choose to purchase a subscription, payment will be charged to your iTunes account. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. For more information, please visit our Terms of Service and Privacy Policy";
+"M_TERM_CONDITIONS_RECURRING_BILLING"  = "Recurring billing, Cancel any time.";
+"M_TERM_CONDITIONS_TERM_OF_SERVICE"  = "ޙިދުމަތުގެ އެއްބަސްވުން";
+"M_TERM_CONDITIONS_PRIVACY_POLICY"  = "ޕްރައިވެސީ ޕޮލިސީ";
+"M_LOGIN_WITH_FACEBOOK" = " ފޭސްބުކް އިން ސައިންއިން ކުރައްވާ";
+"M_LOGIN_WITH_GOOGLE" = " އީމެއިލް އިން ސައިންއިން ކުރައްވާ";
+"M_LOGIN_WITH_APPLE" = " Sign in with Apple";
+"M_OTHER_SIGNIN" = "Other sign up option";
+"M_LOCALIZATIONS" = "Localizations";
+"M_CHANGE_LANGUAGE" = "ބަސް ބަދަލުކުރައްވާ";
+"M_WRITE_YOUR_MESSAGE" = "މެސެޖް ލިޔުއްވާ";
+"M_YOUR_VIDEO_PROFILE" = "ތިބާގެ ވީޑިއޯ ޕްރޮފައިލް";
+"M_BOOKMARK_NO_DATA_FOUND" = "ޑޭޓާއެއް ނުފެނުނު";
+"M_BOOKMARK_NO_DATA_FOUND_DES" = "ތިބާ އެއްވެސް ފަރާތެއް ބުކްމާކް ކުރިކަމަކަށް އަދި ނުދައްކާ!";
+"M_PREFERED_LANGUAGE" = "ތިބާއަށް ކަމުދާ ބަސް ޙިޔާރުކުރައްވާ";
+"M_SELECT_LANGUAGE" = "ތިބާގެ ބަސް ހޮއްވަވާ";
+"M_SERVICE" = "ޙިދުމަތްތައް";
+"M_UN_SUBSCRIBE" = "އަންސަބްސްކްރައިބް";
+"M_UN_SUBSCRIBE_CONTENT" = "After clicking the proceed button you will be not able to access premium features of the mobile application like (Chatting with your match and others.) For accessing again you have to subscribe. Please proceed to suspend the service.";
+
+"M_TERM_AND_CONDITIONS" = "ޓާމްސް އެންޑް ކޮންޑިޝަންސް";
+"M_DATE_OF_BIRTH" = "އުފަން ތާރީޙް";
+"M_NAME" = "ނަން ޖައްސަވާ";
+
+"M_SUBSCRIPTION_ALERT_TITLE" = "މީ ޕްރިމިއަމް ފީޗާ";
+"M_SUBSCRIPTION_ALERT_DEC" = "މި އެޕްގެ ހުރިހާ ފީޗާސްއަށް އަންލިމިޓެޑް އެކްސެސް ބޭނުންފުޅުތޯ؟";
+"M_BUY_VIP_PASS" = "BUY VIP PASS";
+"M_SUBSCRIPTION_BOOTOM_DEC" = "ޕްރިމިއަމް ފީޗާސް އަށް އެކްސެސް ހޯއްދަވާ";
+
+
+// Block profiles
+"M_BLOCK_PROFILES_DEC" = "ތިބާ އެއްވެސް ފަރާތެއް ބްލޮކް ކުރިކަމަކަށް އަދި ނުދައްކާ!";
+
+"M_WIFI_DESABLE_ALERT" = "ތިބާ މިވަގުތު ތިބޭނުންކުރަނީ ވައިފައި ނެޓްވޯކް. ކުރިއަށް ވަޑައިންނެވުމަށް މޯބައިލް ޑޭޓާ ނަންގަވާ";
+"M_UNABLE_SUBSCRIBE" = "ތިބާގެ ސަބްސްކްރިޕްޝަން މިވަގުތު ޕްރޮސެސް ނުކުރެވުނުނު. އިރުކޮޅެއް ފަހުން އަނެއްކާ މަސައްކަތް ކޮއްލައްވާ.";
+
+
+
+
+
+
+
+
+
+
+
+
+//NSLocalizedString("M_PREFERED_LANGUAGE", comment: "")
+

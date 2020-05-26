@@ -1,0 +1,127 @@
+
+App Thinning Size Report for All Variants of Fyndr
+
+Variant: Fyndr-0E985125-68E0-4A22-A050-160F4E6A5AA1.ipa
+Supported variant descriptors: [device: iPod5,1, os-version: 9] and [device: iPhone4,1, os-version: 9]
+App + On Demand Resources size: 10.7 MB compressed, 61.7 MB uncompressed
+App size: 10.7 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-12432C49-1616-4461-9CA3-828DA8BF11EC.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 10], [device: iPad7,1, os-version: 10], [device: iPad7,2, os-version: 10], [device: iPad6,3, os-version: 10], [device: iPad7,3, os-version: 10], and [device: iPad6,4, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-321DE678-F4AF-4076-9442-52AB66BEEFD2.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-4588E103-4406-4346-AFC9-6D2B6269A7CB.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 11], [device: iPhone10,4, os-version: 11], [device: iPhone9,1, os-version: 10], and [device: iPhone9,3, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-4B7CA069-E58A-4686-8F8C-390044168990.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 10], [device: iPad4,4, os-version: 10], [device: iPad5,2, os-version: 10], [device: iPad4,8, os-version: 10], [device: iPad4,5, os-version: 10], [device: iPad5,1, os-version: 10], [device: iPad5,3, os-version: 10], [device: iPad4,1, os-version: 10], [device: iPad6,7, os-version: 10], [device: iPad4,6, os-version: 10], [device: iPad7,6, os-version: 11], [device: iPad6,8, os-version: 10], [device: iPad4,9, os-version: 10], [device: iPad7,5, os-version: 11], [device: iPad4,3, os-version: 10], [device: iPad4,7, os-version: 10], [device: iPad6,11, os-version: 10], [device: iPad4,2, os-version: 10], and [device: iPad5,4, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-578F3D1E-6CC1-444F-9F5C-5C60BF0618F0.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 10], [device: iPhone6,1, os-version: 10], [device: iPhone8,4, os-version: 10], [device: iPhone7,2, os-version: 10], [device: iPhone6,2, os-version: 10], and [device: iPhone8,1, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-86F3B727-2DA5-4614-8D7E-B2490FEAAA43.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 10] and [device: iPhone8,2, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-9BC15AF6-DB26-412B-A70E-CA2F8F22D4DE.ipa
+Supported variant descriptors: [device: iPad4,8, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad4,1, os-version: 12], and [device: iPad5,2, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-A263A103-AF6B-47C8-8475-5C20357C7A4F.ipa
+Supported variant descriptors: [device: iPhone5,4, os-version: 10], [device: iPhone5,1, os-version: 10], [device: iPhone5,2, os-version: 10], and [device: iPhone5,3, os-version: 10]
+App + On Demand Resources size: 10.7 MB compressed, 61.7 MB uncompressed
+App size: 10.7 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-B08D0D18-EB31-4825-99A1-CEF47F9AFA00.ipa
+Supported variant descriptors: [device: iPhone6,1, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone7,2, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone8,1, os-version: 12], and [device: iPod7,1, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-BAA7C57A-D076-40BC-8701-DE749C7DBFE7.ipa
+Supported variant descriptors: [device: iPad3,1, os-version: 9], [device: iPad3,5, os-version: 10], [device: iPad3,2, os-version: 9], [device: iPad3,6, os-version: 10], [device: iPad3,3, os-version: 9], and [device: iPad3,4, os-version: 10]
+App + On Demand Resources size: 10.7 MB compressed, 61.7 MB uncompressed
+App size: 10.7 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-CD913205-DF0C-492A-A9F9-78174D9FB1EA.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-D35A312F-D31B-41C0-B6D1-C8E142BF3F97.ipa
+Supported variant descriptors: [device: iPad2,2, os-version: 9], [device: iPad2,4, os-version: 9], [device: iPad2,7, os-version: 9], [device: iPad2,1, os-version: 9], [device: iPad2,3, os-version: 9], [device: iPad2,6, os-version: 9], and [device: iPad2,5, os-version: 9]
+App + On Demand Resources size: 10.7 MB compressed, 61.7 MB uncompressed
+App size: 10.7 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-D35FEBE4-CD76-4495-B246-97B0326FE2D8.ipa
+Supported variant descriptors: [device: iPad8,8, os-version: 12], [device: iPad8,7, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad7,1, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad6,3, os-version: 12], and [device: iPad8,1, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-DBC53B08-3C1A-4620-8440-D897E6B25F8A.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 11], [device: iPhone10,5, os-version: 11], [device: iPhone10,6, os-version: 11], [device: iPhone9,4, os-version: 10], [device: iPhone10,2, os-version: 11], and [device: iPhone9,2, os-version: 10]
+App + On Demand Resources size: 10.2 MB compressed, 61.7 MB uncompressed
+App size: 10.2 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-EA60E65C-2E3C-487E-A4D5-7DDBB6AABFB5.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12], [device: iPhone10,1, os-version: 12], [device: iPhone9,1, os-version: 12], and [device: iPhone10,4, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr-F7905180-E8D6-43D9-82C4-8B4AB9797351.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone11,4, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone10,6, os-version: 12], [device: iPhone10,2, os-version: 12], and [device: iPhone9,4, os-version: 12]
+App + On Demand Resources size: 10.1 MB compressed, 61.7 MB uncompressed
+App size: 10.1 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fyndr.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 20.5 MB compressed, 61.7 MB uncompressed
+App size: 20.5 MB compressed, 61.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
